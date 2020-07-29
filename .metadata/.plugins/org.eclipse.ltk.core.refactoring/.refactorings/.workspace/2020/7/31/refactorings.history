@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;EmuManager&apos;" deleteContents="true" description="Delete resource &apos;EmuManager&apos;" element1="/EmuManager" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1596016026682"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;EmuManager&apos;" deleteContents="true" description="Delete resource &apos;EmuManager&apos;" element1="/EmuManager" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1596016026682"/>&#x0A;<refactoring comment="Rename resource &apos;oesingTest&apos; to &apos;EMUManager&apos;" description="Rename resource &apos;oesingTest&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/oesingTest" name="EMUManager" stamp="1596016869139" updateReferences="true"/>
 </session>
