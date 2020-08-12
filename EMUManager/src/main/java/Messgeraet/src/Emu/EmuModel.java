@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 
 import Messgeraet.src.JavaFX.FXController;
-import Messgeraet.src.net.sf.yad2xx.FTDIException;
+import net.sf.yad2xx.FTDIException;
 
 public class EmuModel {
     static EmuModel emuModel;

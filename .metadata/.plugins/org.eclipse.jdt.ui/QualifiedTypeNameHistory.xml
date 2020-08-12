@@ -7,7 +7,9 @@
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="javafx.scene.Parent"/>
 <fullyQualifiedTypeName name="javafx.fxml.FXMLLoader"/>
-<fullyQualifiedTypeName name="Messgeraet.src.net.sf.yad2xx.FTDIException"/>
 <fullyQualifiedTypeName name="javafx.scene.Scene"/>
 <fullyQualifiedTypeName name="javafx.concurrent.Task"/>
+<fullyQualifiedTypeName name="Messgeraet.src.net.sf.yad2xx.FTDIInterface"/>
+<fullyQualifiedTypeName name="Messgeraet.src.net.sf.yad2xx.Device"/>
+<fullyQualifiedTypeName name="Messgeraet.src.net.sf.yad2xx.FTDIException"/>
 </qualifiedTypeNameHistroy>

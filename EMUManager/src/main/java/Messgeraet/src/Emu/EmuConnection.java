@@ -4,8 +4,9 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.ArrayList;
 
-import Messgeraet.src.JavaFX.FXController;
-import Messgeraet.src.net.sf.yad2xx.*;
+import net.sf.yad2xx.Device;
+import net.sf.yad2xx.FTDIException;
+import net.sf.yad2xx.FTDIInterface;
 
 public class EmuConnection extends Thread 
 {

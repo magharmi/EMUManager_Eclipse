@@ -4,20 +4,20 @@ import java.io.*;
 import java.net.URL;
 
 import Messgeraet.src.Emu.*;
-import Messgeraet.src.net.sf.*;
-import Messgeraet.src.net.sf.yad2xx.FTDIException;
+import net.sf.*;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import net.sf.yad2xx.FTDIException;
 
 public class Main extends Application
 {	
     public void start(Stage primaryStage) {
         try {
             Parent root = FXMLLoader.load(getClass().getResource("Hauptmenue.fxml"));
- 
+            
             primaryStage.setTitle("EMU Manager");
             primaryStage.setScene(new Scene(root));
             primaryStage.show();

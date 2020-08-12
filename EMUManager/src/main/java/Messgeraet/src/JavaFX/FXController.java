@@ -23,7 +23,7 @@ import javafx.scene.control.CheckBox;
 import javafx.scene.control.TextInputDialog;
 import javafx.scene.layout.Region;
 import javafx.scene.layout.VBox;
-import Messgeraet.src.net.sf.yad2xx.FTDIException;
+import net.sf.yad2xx.FTDIException;
 import javafx.beans.*;
 
 import java.io.IOException;
